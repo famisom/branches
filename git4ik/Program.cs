@@ -1,11 +1,5 @@
 ﻿class Program
 {
-    static void wrt(double x, double y) => Console.WriteLine($"{x}, {y}");
-    static void sum(double x, double y) => Console.WriteLine(x + y);
-    static void sub(double x, double y) => Console.WriteLine(x - y);
-    static void div(double x, double y) => Console.WriteLine(x / y);
-    static void pow(double x, double y) => Console.WriteLine(Math.Pow(x, y));
-
     static void Main(string[] args)
     {
         bool tf = true;
