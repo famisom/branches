@@ -1,5 +1,9 @@
 ﻿class Program
 {
+
+
+
+
     static void pow(double x, double y) => Console.WriteLine(Math.Pow(x, y));
     static void Main(string[] args)
     {
