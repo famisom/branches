@@ -2,6 +2,7 @@
 {
     static void wrt(double x, double y) => Console.WriteLine($"{x}, {y}");
     static void sum(double x, double y) => Console.WriteLine(x + y);
+    static void sub(double x, double y) => Console.WriteLine(x - y);
     static void Main(string[] args)
     {
         bool tf = true;
